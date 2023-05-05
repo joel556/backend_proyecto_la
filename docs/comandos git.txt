@@ -1,0 +1,4 @@
+1. Descargar GIT
+2. Configurar
+>
+>
